@@ -40,8 +40,9 @@ body {
   height: 100%; }
 
 body {
-  background: #E0E0E0;
-  color: #fff; }
+
+  background: rgba(10, 255, 211, 1); }
+
 
 .content {
   font: 800 14.5em/1  'Open Sans', Impact; }
